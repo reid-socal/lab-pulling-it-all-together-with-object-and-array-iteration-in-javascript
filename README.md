@@ -153,7 +153,7 @@ Your grade will be determined based on your ability to pass all the provided tes
 - Use `console.log()` strategically during development for debugging, but remove or comment them out before submission.
 - Validate your functions against edge cases (e.g., a player or team not existing in the dataset).
 - Focus on clean, modular code—grading includes an assessment of code readability and maintainability.
-
+**
 ---
 
 ## Resources
